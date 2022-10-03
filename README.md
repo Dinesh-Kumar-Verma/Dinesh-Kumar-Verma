@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dinesh-Kumar-Verma 👀 interested in Data Science
-  🌱currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics Projects
+  🌱currently learning Data Analytics, ML and AI
+- 💞️ I’m looking to collaborate on Data Science Projects
 
 
 <!---

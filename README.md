@@ -37,7 +37,7 @@
 🚀 **Featured Projects**
 
 - 📦 [**Bike Sharing Demand Prediction**](https://github.com/Dinesh-Kumar-Verma/Bike_Sharing_Demand_Prediction.git)  
-  <sub>End-to-End ML Pipeline: DVC, MLflow, Docker, AWS, FastAPI, Streamlit</sub>  
+  <sub>End-to-End ML Pipeline: DVC, MLflow, Docker, GIT, AWS -(ECR, S3, EC2), Streamlit</sub>  
 
 - 🤗 [**Vehicle Insurance Prediction**](https://github.com/Dinesh-Kumar-Verma/Vehicle_Insurance_Prediction)  
   <sub>End-to-End ML Pipeline: DVC, AWS(S3, EC2, ECR), CI-CD, Mongodb, FastAPI</sub>  
